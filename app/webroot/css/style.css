@@ -1,0 +1,126 @@
+.logo{
+	height:25px;
+}
+.cl{
+	clear:both;
+}
+
+
+/*Tableas*/
+.dataTables_info{
+	padding-top:15px;
+	float:left;
+
+}
+.dataTables_paginate {
+	
+	float:right;
+	margin-top:15px;
+}
+.dataTables_paginate a {
+	padding:10px;
+	border:1px solid #DDD;
+	margin:5px;
+	cursor:pointer;
+	text-decoration: none;
+}
+
+
+.dataTables_filter{
+	float:right;
+}
+.dataTables_length{
+	float:left;
+}
+
+/* Upload de fotos*/
+
+#upl{
+	display: none;
+}
+.preloader{
+	padding:30px;
+	text-align:center;
+	display:none;
+}
+.wrap{
+		background:#000;
+		width:100%;
+		position:fixed;
+		height:100%;
+		z-index:888;
+		opacity: 0.8;
+		display:none;
+}
+
+.upfotoshidden{
+	width:98%;
+	position:fixed;
+	height:94%;
+	margin:1%;
+	display:none;
+
+	z-index:999;
+
+	border:3px solid #DDD;
+	border-radius:4px;
+}
+.upfotoshidden .body-foto{
+		background:#FFF;
+	height:84% !important;
+	overflow-y: scroll;
+}
+.upfotoshidden .footer-foto{
+	bottom:1%;
+	left:5px;
+	position:absolute;
+	
+}
+
+
+/*login page*/
+.form-login{
+	
+	padding:40px;
+	text-align:center;
+	border:1px solid #ccc;
+	background:#e0e0e0;
+	margin:30% auto 0 auto;
+
+	max-width:500px;
+
+}
+
+.btn-login{
+	margin-top:20px;
+
+}
+.login-form{
+	margin:0 auto 30px auto;
+	max-width:400px;
+}
+
+
+.form-login img{
+	
+	margin-bottom:20px;
+}
+
+
+
+
+
+
+
+.add-data{
+	font-weight: bold;
+	cursor:pointer;
+	color:#FF6E00;
+}
+
+
+.add-data:hover{
+	color:red;
+}
+
+
