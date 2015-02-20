@@ -65,7 +65,7 @@ class DATABASE_CONFIG {
 		'host' => 'localhost',
 		'login' => 'nocam569_root',
 		'password' => 'root@nocambui',
-		'database' => 'nocam569_nocambui',
+		'database' => 'nocam569_plaga',
 		'prefix' => '',
 		'encoding' => 'utf8',
 	);
