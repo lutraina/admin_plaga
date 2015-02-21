@@ -8,33 +8,33 @@
 		 
 		<!--basic styles-->
 		<link rel="stylesheet" href="http://code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css" />
-		<link href="<?= $_URL ;?>bootstrap/css/bootstrap.min.css" rel="stylesheet" />
-		<link href="<?= $_URL ;?>bootstrap/css/bootstrap-responsive.min.css" rel="stylesheet" />
-		<link rel="stylesheet" href="<?= $_URL ;?>themes/font-awesome/css/font-awesome.min.css" />
+		<link href="http://admin.plaga.com.br/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+		<link href="http://admin.plaga.com.br/bootstrap/css/bootstrap-responsive.min.css" rel="stylesheet" />
+		<link rel="stylesheet" href="http://admin.plaga.com.br/themes/font-awesome/css/font-awesome.min.css" />
 
 		<!--[if IE 7]>
-			<link rel="stylesheet" href="<?= $_URL ;?>themes/font-awesome/css/font-awesome-ie7.min.css" />
+			<link rel="stylesheet" href="http://admin.plaga.com.br/themes/font-awesome/css/font-awesome-ie7.min.css" />
 		<![endif]-->
 
 		<!--page specific plugin styles-->
 
-		<link rel="stylesheet" href="<?= $_URL ;?>themes/css/prettify.css" />
-		<link rel="stylesheet" href="<?= $_URL ;?>css/style.css" />
+		<link rel="stylesheet" href="http://admin.plaga.com.br/themes/css/prettify.css" />
+		<link rel="stylesheet" href="http://admin.plaga.com.br/css/style.css" />
 		<!--fonts-->
 
-		<link rel="stylesheet" href="<?= $_URL ;?>http://fonts.googleapis.com/css?family=Open+Sans:400,300" />
+		<link rel="stylesheet" href="http://admin.plaga.com.br/http://fonts.googleapis.com/css?family=Open+Sans:400,300" />
 
 		<!--ace styles-->
 
-		<link rel="stylesheet" href="<?= $_URL ;?>themes/css/w8.min.css" />
-		<link rel="stylesheet" href="<?= $_URL ;?>themes/css/w8-responsive.min.css" />
-		<link rel="stylesheet" href="<?= $_URL ;?>themes/css/w8-skins.min.css" />
+		<link rel="stylesheet" href="http://admin.plaga.com.br/themes/css/w8.min.css" />
+		<link rel="stylesheet" href="http://admin.plaga.com.br/themes/css/w8-responsive.min.css" />
+		<link rel="stylesheet" href="http://admin.plaga.com.br/themes/css/w8-skins.min.css" />
 		
-		<script src="<?= $_URL ;?>themes/js/jquery.min.js"></script>
+		<script src="http://admin.plaga.com.br/themes/js/jquery.min.js"></script>
 		<script src="http://code.jquery.com/ui/1.10.3/jquery-ui.js"></script>
 		
 		<!--[if lte IE 8]>
-		  <link rel="stylesheet" href="<?= $_URL ;?>themes/css/ace-ie.min.css" />
+		  <link rel="stylesheet" href="http://admin.plaga.com.br/themes/css/ace-ie.min.css" />
 		<![endif]-->
 
 		<!--inline styles if any
@@ -260,36 +260,36 @@ $(edit_abas_dialog).click(function(e){ //on add input button click
 		</script>
 		
 		
-		<script src="<?= $_URL ;?>js/galeria.js"></script>
+		<script src="http://admin.plaga.com.br/js/galeria.js"></script>
 		
-		<script src="<?= $_URL ;?>bootstrap/js/bootstrap.min.js"></script>
+		<script src="http://admin.plaga.com.br/bootstrap/js/bootstrap.min.js"></script>
 		
-		<script src="<?= $_URL ;?>themes/js/jquery.ui.touch-punch.min.js"></script>
+		<script src="http://admin.plaga.com.br/themes/js/jquery.ui.touch-punch.min.js"></script>
 		
 		
-		<script src="<?= $_URL ;?>jQuery-TE_v.1.4.0/jquery-te-1.4.0.min.js"></script>
-		<link rel="stylesheet" href="<?= $_URL ;?>jQuery-TE_v.1.4.0/jquery-te-1.4.0.css" />
+		<script src="http://admin.plaga.com.br/jQuery-TE_v.1.4.0/jquery-te-1.4.0.min.js"></script>
+		<link rel="stylesheet" href="http://admin.plaga.com.br/jQuery-TE_v.1.4.0/jquery-te-1.4.0.css" />
 		<script>$("textarea").jqte();</script>
 		
-		<script src="<?= $_URL ;?>themes/js/jquery.slimscroll.min.js"></script>
-		<script src="<?= $_URL ;?>themes/js/jquery.easy-pie-chart.min.js"></script>
-		<script src="<?= $_URL ;?>themes/js/jquery.sparkline.min.js"></script>
+		<script src="http://admin.plaga.com.br/themes/js/jquery.slimscroll.min.js"></script>
+		<script src="http://admin.plaga.com.br/themes/js/jquery.easy-pie-chart.min.js"></script>
+		<script src="http://admin.plaga.com.br/themes/js/jquery.sparkline.min.js"></script>
 		
-		<script src="<?= $_URL ;?>themes/js/jquery.flot.min.js"></script>
-		<script src="<?= $_URL ;?>themes/js/jquery.flot.pie.min.js"></script>
-		<script src="<?= $_URL ;?>themes/js/jquery.flot.resize.min.js"></script>
+		<script src="http://admin.plaga.com.br/themes/js/jquery.flot.min.js"></script>
+		<script src="http://admin.plaga.com.br/themes/js/jquery.flot.pie.min.js"></script>
+		<script src="http://admin.plaga.com.br/themes/js/jquery.flot.resize.min.js"></script>
 
 
 		<!-- Java script geral para datas (data.js)-->
-		<script src="<?= $_URL ;?>js/data.js"></script>
+		<script src="http://admin.plaga.com.br/js/data.js"></script>
 		
 
 				
 		<!--w8 scripts-->
 
-		<script src="<?= $_URL ;?>themes/js/w8-elements.min.js"></script>
-		<script src="<?= $_URL ;?>themes/js/w8.min.js"></script>
-		<script src="<?= $_URL ;?>nicEditor/nicEdit.js"></script>
+		<script src="http://admin.plaga.com.br/themes/js/w8-elements.min.js"></script>
+		<script src="http://admin.plaga.com.br/themes/js/w8.min.js"></script>
+		<script src="http://admin.plaga.com.br/nicEditor/nicEdit.js"></script>
 		
 		<script type="text/javascript">
 			bkLib.onDomLoaded(function() { nicEditors.allTextAreas() });
@@ -312,7 +312,7 @@ $(edit_abas_dialog).click(function(e){ //on add input button click
 		<?= $this->element('nav-top'); ?>
 
 		<div class="container-fluid" id="main-container">
-			<a id="menu-toggler" href="<?= $_URL ;?>#">
+			<a id="menu-toggler" href="http://admin.plaga.com.br/#">
 				<span></span>
 			</a>
 
@@ -323,7 +323,7 @@ $(edit_abas_dialog).click(function(e){ //on add input button click
 					<ul class="breadcrumb">
 						<li>
 							<i class="icon-home"></i>
-							<a href="<?= $_URL ;?>">Início</a>
+							<a href="http://admin.plaga.com.br/">Início</a>
 
 							<span class="divider">
 								<i class="icon-angle-right"></i>
@@ -340,7 +340,7 @@ $(edit_abas_dialog).click(function(e){ //on add input button click
 			</div><!--/#main-content-->
 		</div><!--/.fluid-container#main-container-->
 
-		<a href="<?= $_URL ;?>#" id="btn-scroll-up" class="btn btn-small btn-inverse">
+		<a href="http://admin.plaga.com.br/#" id="btn-scroll-up" class="btn btn-small btn-inverse">
 			<i class="icon-double-angle-up icon-only bigger-110"></i>
 		</a>
 

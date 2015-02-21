@@ -63,9 +63,9 @@ class DATABASE_CONFIG {
 		'datasource' => 'Database/Mysql',
 		'persistent' => false,
 		'host' => 'localhost',
-		'login' => 'nocam569_root',
-		'password' => 'root@nocambui',
-		'database' => 'nocam569_plaga',
+		'login' => 'nocam569_pProd',
+		'password' => '28041205Lu',
+		'database' => 'nocam569_plagaProd',
 		'prefix' => '',
 		'encoding' => 'utf8',
 	);
